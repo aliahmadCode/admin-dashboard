@@ -13,7 +13,7 @@ function Progress() {
               </div>
               <span className="font-[600] text-[18px]">Projects in Progress</span>
             </div>
-            <h3 className="text-[#95c860] text-[30px] font-bold">900</h3>
+            <h3 className="text-[#95c860] text-[35px] sm:text-[40px] font-bold">900</h3>
           </div>
           <div className="flex justify-center items-center rounded-lg py-2 bg-[#95c860] w-[50%] text-white">View Projects</div>
         </div>
@@ -25,7 +25,7 @@ function Progress() {
               </div>
               <span className="font-[600] text-[18px]">Pending Quotes</span>
             </div>
-            <h3 className="text-[#95c860] text-[30px] font-bold">900</h3>
+            <h3 className="text-[#95c860] text-[35px] sm:text-[40px] font-bold">900</h3>
           </div>
           <div className="flex justify-center items-center rounded-lg py-2 bg-[#95c860] w-[50%] text-white">View Quotes</div>
         </div>

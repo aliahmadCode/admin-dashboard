@@ -76,7 +76,7 @@ function Navbar() {
             <IoSearchOutline />
           </div>
         </div>
-        <div className="flex mr-3 gap-3">
+        <div className="flex mr-5 sm:mr-3 gap-3 sm:gap-3">
           <TbBellFilled className="bg-[#fefffe] text-[#528476] px-2 py-1 rounded-full text-[35px] shadow-md" />
           <RiSettings3Fill className="bg-[#fefffe] text-[#528476] px-2 py-1 rounded-full text-[35px] shadow-md" />
           <img

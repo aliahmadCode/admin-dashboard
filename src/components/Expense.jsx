@@ -16,9 +16,9 @@ function Expense() {
                 <span className="font-[600] text-[14px]">+$50 this week</span>
               </div>
             </div>
-            <h3 className="text-[#95c860] text-[30px] sm:text-[40px] font-bold">$561,000</h3>
+            <h3 className="text-[#95c860] text-[28px] sm:text-[38px] font-bold">$561,000</h3>
           </div>
-          <div className="flex justify-center items-center rounded-lg py-2 bg-[#95c860] text-white sm:w-[25%]">
+          <div className="flex justify-center items-center rounded-lg py-2 bg-[#95c860] text-white  lg:w-[25%]">
             Track Expenses
           </div>
         </div>

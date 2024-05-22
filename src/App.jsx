@@ -33,15 +33,15 @@ function App() {
     <>
       <div className="flex">
         <SideBar />
-        <div className="flex flex-col w-[98vw] lg:w-[78vw] xl:w-[85vw] ">
+        <div className="flex flex-col w-[98vw] lg:w-[78vw] xl:w-[85vw] mt-0">
           <Navbar />
           <Header />
           <div className=" w-[100%]  relative  mt-8 sm:mt-1 lg:mt-8">
             <div
-              onClick={() => setisHide((prev) => !prev)}
+              
               className="xl:w-[55vw] 2xl:w-[60vw] lg:w-[72vw]  w-[96vw] flex flex-wrap xl:justify-center justify-center gap-1 lg:mx-2 mb-5"
             >
-              <div className="xl:hidden absolute top-[-37px] right-5 lg:top-[-35px] lg:right-14 cursor-pointer  px-[7px] py-[7px] rounded-sm text-[18px] hover:bg-[#95c860] hover:text-white">
+              <div onClick={() => setisHide((prev) => !prev)} className="xl:hidden absolute top-[-37px] right-5 lg:top-[-35px] lg:right-14 cursor-pointer  px-[7px] py-[7px]  rounded-sm text-[18px] hover:bg-[#95c860] hover:text-white">
                 {isHide ? <RxCross2 /> : <MdOutlineMenuOpen />}
               </div>
               <Progress />

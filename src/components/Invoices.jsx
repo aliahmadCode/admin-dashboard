@@ -16,7 +16,7 @@ function Invoices() {
                 <span className="font-[600] text-[14px]">+$50 this week</span>
               </div>
             </div>
-            <h3 className="text-[#95c860] text-[30px] font-bold">900</h3>
+            <h3 className="text-[#95c860] text-[37px] sm:text-[40px] font-bold">50</h3>
           </div>
           <div className="flex justify-center items-center rounded-lg py-2 bg-[#95c860] w-[50%] text-white">
             View Projects
@@ -32,7 +32,7 @@ function Invoices() {
                 Projects in Progress
               </span>
             </div>
-            <h3 className="text-[#95c860] text-[30px] font-bold">900</h3>
+            <h3 className="text-[#95c860] text-[37px] sm:text-[40px] font-bold">11</h3>
           </div>
           <div className="flex justify-center items-center rounded-lg py-2 bg-[#95c860] w-[50%] text-white">
             View Projects
