@@ -20,11 +20,11 @@ function RightSidebar() {
   const [isData, setIsData] = useState(data);
   return (
     <>
-      <div className="hidden top-0 right-0 py-3 px-3 shadow-sm box-shaodw  rounded-lg  overflow-auto absolute w-[300px] max-w-[300px] h-screen xl:flex flex-col">
+      <div className="hidden top-0 right-0 py-3 px-3 shadow-sm box-shaodw  rounded-lg  overflow-auto absolute w-[310px]  width-sidebar max-w-[310px] h-screen xl:flex flex-col">
         <div className="flex flex-col gap-3">
           <div className="flex items-center px-3 py-3 w-full justify-between">
             <span className="font-[600] text-[18px]">Expense Tracking</span>
-            <SlOptionsVertical className="cursor-pointer" />
+            <SlOptionsVertical className="cursor-pointer" />         
           </div>
           {isData.map((item) => {
             const Icons = item.icon;

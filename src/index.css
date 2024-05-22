@@ -19,6 +19,71 @@
 .bder{
   border: 1px solid red;
 }
+/* .box-shaodw{
+  box-shadow: 5px 5px 6px 3px #888888;
+} */
 .box-shaodw{
-  box-shadow: 5px 5px 6px 3px #888888; ;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+@media screen and (min-width: 1250px){
+  .width-sidebar{
+    width: 270px;
+    max-width: 270px;
+  }
+}
+
+@media screen and (min-width: 1380px){
+  .width-sidebar{
+    width: 310px;
+    max-width: 310px;
+  }
+}
+@media screen and (min-width: 1450px){
+  .width-sidebar{
+    width: 330px;
+    max-width: 330px;
+  }
+}
+@media screen and (min-width: 1500px){
+  .width-sidebar{
+    width: 360px;
+    max-width: 360px;
+  }
+}
+@media screen and (min-width: 1510px){
+  .width-sidebar{
+    width: 330px;
+    max-width: 330px;
+  }
+}
+@media screen and (min-width: 1530px){
+  .width-sidebar{
+    width: 300px;
+    max-width: 300px;
+  }
+}
+@media screen and (min-width: 1600px){
+  .width-sidebar{
+    width: 320px;
+    max-width: 320px;
+  }
+}
+@media screen and (min-width: 1700px){
+  .width-sidebar{
+    width: 360px;
+    max-width: 360px;
+  }
+}
+@media screen and (min-width: 1800px){
+  .width-sidebar{
+    width: 380px;
+    max-width: 380px;
+  }
+}
+@media screen and (min-width: 1900px){
+  .width-sidebar{
+    width: 390px;
+    max-width: 390px;
+  }
 }
