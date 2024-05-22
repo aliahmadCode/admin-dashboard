@@ -4,7 +4,7 @@ import { GrProjects } from "react-icons/gr";
 function Invoices() {
   return (
     <>
-      <div className="lg:w-[100%]  w-[70%] md:w-[60%] flex flex-col gap-2 mt-1 lg:flex-row lg:gap-2">
+      <div className="lg:w-[100%]  w-[80%] md:w-[60%] flex flex-col gap-2 mt-1 lg:flex-row lg:gap-2">
         <div className="flex flex-col w-[100%] lg:w-[54%] py-7 px-6 gap-3 box-shaodw rounded-lg">
           <div className="flex justify-between items-center ">
             <div className="flex items-center gap-3 py-2">

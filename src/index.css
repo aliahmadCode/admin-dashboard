@@ -30,6 +30,14 @@
   transform: rotate(270deg);
 }
 
+
+
+@media screen and (min-width: 330px){
+  .position-left{
+    left: -18px;
+  }
+}
+
 @media screen and (min-width: 500px){
   .position-left{
     left: -18px;
