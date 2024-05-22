@@ -4,7 +4,7 @@ import { LiaBuromobelexperte } from "react-icons/lia";
 function Expense() {
   return (
     <>
-      <div className="lg:w-[100%]  w-[80%] md:w-[60%] mt-1">
+      <div className="lg:w-[100%]  w-[90%] md:w-[60%] mt-1">
         <div className="flex flex-col w-[100%] py-7 px-3 sm:px-6  gap-3 box-shaodw rounded-lg">
           <div className="flex justify-between items-center ">
             <div className="flex items-center gap-1 sm:gap-3  py-2">

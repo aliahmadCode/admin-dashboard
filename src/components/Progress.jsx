@@ -4,7 +4,7 @@ import { GrProjects } from "react-icons/gr";
 function Progress() {
   return (
     <>
-      <div className="flex flex-col w-[80%] md:w-[60%] lg:w-[50%] gap-2 ">
+      <div className="flex flex-col w-[90%] md:w-[60%] lg:w-[50%] gap-2 ">
         <div className="flex flex-col w-[100%] py-7 px-6 gap-3 box-shaodw rounded-lg">
           <div className="flex justify-between items-center ">
             <div className="flex items-center gap-3 py-2">
