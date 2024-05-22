@@ -95,9 +95,29 @@
     left: -10px;
   }
 }
+@media screen and (min-width: 1550px){
+  .position-left{
+    left: -17px;
+  }
+}
 @media screen and (min-width: 1580px){
   .position-left{
-    left: 2px;
+    left: -10px;
+  }
+}
+@media screen and (min-width: 1650px){
+  .position-left{
+    left: -5px;
+  }
+}
+@media screen and (min-width: 1740px){
+  .position-left{
+    left: 10px;
+  }
+}
+@media screen and (min-width: 1840px){
+  .position-left{
+    left: 15px;
   }
 }
 

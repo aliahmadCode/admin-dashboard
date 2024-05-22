@@ -5,7 +5,7 @@ import { RiSettings3Fill } from "react-icons/ri";
 function Header() {
   return (
     <>
-      <div className="lg:flex lg:w-[100%] lg:justify-between py-4 px-4">
+      <div className="lg:flex  lg:w-[100%] lg:justify-between py-4 mt-4 px-4">
         <div className="flex mt-1 relative justify-center sm:hidden lg:flex lg:w-[400px] lg:justify-start">
           <input
             type="text"
