@@ -12,7 +12,7 @@ function Expense() {
                 <LiaBuromobelexperte className="text-[#95c860] text-[25px]" />
               </div>
               <div className="flex flex-col">
-                <span className="font-[600] text-[20px]">Total Expense</span>
+                <span className="font-[600] text-[20px] xl:text-[28px] ">Total Expense</span>
                 <span className="font-[600] text-[14px]">+$50 this week</span>
               </div>
             </div>

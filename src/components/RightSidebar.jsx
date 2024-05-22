@@ -35,10 +35,10 @@ function RightSidebar() {
               >
                 <div className="flex items-center gap-2">
                   <Icons
-                    className="text-[#528476] px-2 py-1 text-[35px] border-[#528476] border-[1px] border-solid rounded-full  font-[700]
+                    className="text-[#528476] px-2 py-1 text-[43px] border-[#528476] border-[2px] border-solid rounded-full  font-bold
                   "
                   />
-                  <span className="text-[#528476] font-[600]">{item.text}</span>
+                  <span className="text-[#528476] text-[17px] font-[600]">{item.text}</span>
                 </div>
                 <div>
                   <span className="text-[#95c860] font-medium">

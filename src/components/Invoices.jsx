@@ -12,14 +12,14 @@ function Invoices() {
                 <GrProjects className="text-[#95c860] text-[23px]" />
               </div>
               <div className="flex flex-col">
-                <span className="font-[600] text-[20px]">Invoices Generated</span>
+                <span className="font-[600] xl:text-[25px]  text-[20px]">Invoices Generated</span>
                 <span className="font-[600] text-[14px]">+$50 this week</span>
               </div>
             </div>
             <h3 className="text-[#95c860] text-[37px] sm:text-[40px] font-bold">50</h3>
           </div>
           <div className="flex justify-center items-center rounded-lg py-2 bg-[#95c860] w-[50%] text-white">
-            View Projects
+            View Invoices
           </div>
         </div>
         <div className="flex flex-col w-[100%] lg:w-[54%] py-7 px-6 gap-3 box-shaodw rounded-lg">
@@ -28,14 +28,14 @@ function Invoices() {
               <div className="bg-[#f4fbee] px-3 py-3 rounded-full ">
                 <GrProjects className="text-[#95c860] text-[23px]" />
               </div>
-              <span className="font-[600] text-[18px]">
-                Projects in Progress
+              <span className="font-[600] xl:text-[25px]  text-[18px]">
+                Active Employees
               </span>
             </div>
             <h3 className="text-[#95c860] text-[37px] sm:text-[40px] font-bold">11</h3>
           </div>
           <div className="flex justify-center items-center rounded-lg py-2 bg-[#95c860] w-[50%] text-white">
-            View Projects
+            Manage Employees
           </div>
         </div>
       </div>
