@@ -34,7 +34,7 @@ function Invoices() {
             </div>
             <h3 className="text-[#95c860] text-[37px] sm:text-[40px] font-bold">11</h3>
           </div>
-          <div className="flex justify-center items-center rounded-lg py-2 bg-[#95c860] w-[50%] text-white">
+          <div className="flex justify-center items-center rounded-lg py-2 bg-[#95c860] w-[70%] sm:w-[50%] text-white">
             Manage Employees
           </div>
         </div>
