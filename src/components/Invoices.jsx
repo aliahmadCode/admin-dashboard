@@ -12,7 +12,7 @@ function Invoices() {
                 <GrProjects className="text-[#95c860] text-[23px]" />
               </div>
               <div className="flex flex-col">
-                <span className="font-[600] xl:text-[25px]  text-[20px]">Invoices Generated</span>
+                <span className="font-[600]  xl:text-[20px]  2xl:text-[25px]  text-[20px]">Invoices Generated</span>
                 <span className="font-[600] text-[14px]">+$50 this week</span>
               </div>
             </div>
@@ -28,7 +28,7 @@ function Invoices() {
               <div className="bg-[#f4fbee] px-3 py-3 rounded-full ">
                 <GrProjects className="text-[#95c860] text-[23px]" />
               </div>
-              <span className="font-[600] xl:text-[25px]  text-[18px]">
+              <span className="font-[600]  xl:text-[20px]  2xl:text-[25px]  text-[18px]">
                 Active Employees
               </span>
             </div>

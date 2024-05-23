@@ -11,7 +11,7 @@ function Progress() {
               <div className="bg-[#f4fbee] px-3 py-3 rounded-full ">
                 <GrProjects className="text-[#95c860] text-[23px]" />
               </div>
-              <span className="font-[600] xl:text-[24px] text-[18px]">Projects in Progress</span>
+              <span className="font-[600] xl:text-[20px] 2xl:text-[24px] text-[18px]">Projects in Progress</span>
             </div>
             <h3 className="text-[#95c860] text-[35px] sm:text-[40px] font-bold">900</h3>
           </div>
@@ -23,7 +23,7 @@ function Progress() {
               <div className="bg-[#f4fbee] px-3 py-3 rounded-full ">
                 <GrProjects className="text-[#95c860] text-[23px]" />
               </div>
-              <span className="font-[600] xl:text-[24px]  text-[18px]">Pending Quotes</span>
+              <span className="font-[600]  xl:text-[20px]  2xl:text-[24px]  text-[18px]">Pending Quotes</span>
             </div>
             <h3 className="text-[#95c860] text-[35px] sm:text-[40px] font-bold">900</h3>
           </div>
